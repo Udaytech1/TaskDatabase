@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskDatabase</string>
+    <string name="firstName">First Name: </string>
+    <string name="lastName">Last Name: </string>
+    <string name="phone">Phone: </string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="enter_first_name">Enter first name</string>
+</resources>
